@@ -1,9 +1,10 @@
 #!/bin/bash
 
 if [ "$#" -ne 1 ]; then
-    echo -e "\nUsage: vga_makeBoxPlotRsem_s.sh <geneName>\n"
+    echo -e "\nUsage: vga_makeBoxPlotRsem.sh <geneName>\n"
     exit 1;
 fi
+
 module load intel/18.0.2  
 module load impi/18.0.2
 module load Rstats/3.5.1
