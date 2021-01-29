@@ -14,7 +14,7 @@
 #include <cstdlib>
 #include <algorithm>
 #include <map>
-#include "geneExprUtils.hpp"
+#include "vga_geneExprUtils.hpp"
 
 using namespace std;
 using namespace boost::math;
