@@ -19,7 +19,7 @@ Usage: vga_survivalCurve.sh <TCGA_TUMOR> <GENE_NAME> - where TCGA_TUMOR is the T
 
 Example: vga_survivalCurve.sh KIRC ERCC1.
 
-Notes: Edit lines 8-11 to load any module required for R. Line 19 launches the vga_SpotLight binary, specify its path; the --optFdat option points to the TCGA gene expression files, edit the path. Edit line 21 to point to the TCGA clinical data files. Line 32 calls vga_survival.R, verify its path. The example above will generate a graphic file named kirc_ercc1.png and a text file named survival_ercc1_kirc.out. vga_survivalCurve.sh can be scaled-up using vga_submitMpiJob, which is detailed in directory submitMpi.
+Notes: Edit lines 8-11 to load any module required for R. Line 19 launches the vga_spotLight binary (see Script 3), specify its path; the --optFdat option points to the TCGA gene expression files, edit the path. Edit line 21 to point to the TCGA clinical data files. Line 32 calls vga_survival.R, verify its path. The example above will generate a graphic file named kirc_ercc1.png and a text file named survival_ercc1_kirc.out. vga_survivalCurve.sh can be scaled-up using vga_submitMpiJob, which is detailed in directory submitMpi.
 
 Script 3 -- vga_geneExprMain.cpp - general utility to process TCGA gene expression and mutation files
 
