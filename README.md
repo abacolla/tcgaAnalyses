@@ -60,4 +60,4 @@ Option G:
    Example: ibrun -n 1 vga_spotLight --optGdat ACC__geneExprT.txt --optGgene1 GRB2 --optGgene2 FGFR2
    Output file will be 'ACC_GRB2_FGFR2_forKM.txt'
    
-Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directory containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
+Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directories containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
