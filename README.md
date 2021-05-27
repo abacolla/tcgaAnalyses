@@ -68,3 +68,10 @@ Option G:
    Output file will be 'ACC_GRB2_FGFR2_forKM.txt'
    
 Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directories containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
+
+## References
+
+Bacolla et al. [Cancer mutational burden is shaped by G4 DNA, replication stress and mitochondrial dysfunction](https://www.sciencedirect.com/science/article/pii/S0079610718302426?via%3Dihub) Prog. Biophys. Mol. Biol. 147, 47-61, 2019.
+Houl et al. [Selective small molecule PARG inhibitor causes replication fork stalling and cancer cell death](https://www.nature.com/articles/s41467-019-13508-4) Nat. Commun. 10, 5654, 2019.
+Singh et al. [Histone acetyltransferase MOF orchestrates outcomes at the crossroad of oncogenesis, DNA damage response, proliferation, and stem cell development](https://mcb.asm.org/content/mcb/40/18/e00232-20.full.pdf) Mol. Cell. Biol. 40, e00232-20, 2020.
+Bacolla et al. [Heritable pattern of oxidized DNA base repair coincides with pre-targeting of repair complexes to open chromatin](https://academic.oup.com/nar/article/49/1/221/6029161) Nucleic Acids Res. 49, 221-243, 2021.
