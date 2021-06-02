@@ -30,7 +30,7 @@ Notes: Edit lines 8-11 to load any module required for R. Line 19 launches the v
 
 vga_geneExprMain.cpp - general utility to process TCGA gene expression and mutation files.
 
-Synopsis: Option A is to find a correlation between gene expression of 2 genes
+* Synopsis: Option A is to find a correlation between gene expression of 2 genes
           Option B is to find a correlation between gene expression of 1 gene and all genes in the dataset
           Option C is to find a correlation between gene expression of 1 gene from dataset1 and mutations in dataset2
           Option D is to find correlations between gene expression of all genes in dataset1 and mutations in dataset2
@@ -38,7 +38,8 @@ Synopsis: Option A is to find a correlation between gene expression of 2 genes
           Option F is to output gene expression data for one gene
           Option G is to get gene expression of 2 genes for survival curves (used by vga_survivalCurve.sh)
           
-Usage and Examples:
+* Usage and Examples:
+
 Option A:
    Example: ibrun -n 1 vga_spotLight --optAdat ACC__geneExprT.txt --optAgene1 GRB2 --optAgene2 FGFR2
    Output file will be 'ACC_GRB2_FGFR2_expr.txt'
@@ -67,7 +68,7 @@ Option G:
    Example: ibrun -n 1 vga_spotLight --optGdat ACC__geneExprT.txt --optGgene1 GRB2 --optGgene2 FGFR2
    Output file will be 'ACC_GRB2_FGFR2_forKM.txt'
    
-Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directories containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
+* Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directories containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
 
 ## References
 
