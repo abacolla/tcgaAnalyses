@@ -70,6 +70,14 @@ Option G:
    
 * Notes: Edit Makefile to point to the BOOST library and preload any module required for MPI. Edit lines 96 and 97 of vga_geneExprUsage.hpp to point to the directories containing the gene expression and mutation data. File testStart.sh may be used as a guide to test the vga_spotLight compiled binary.
 
+## Notes
+
+With R version 3.5.1 vga_makeBoxPlotRsem.sh may raise the following error: */opt/apps/intel18/impi18_0/Rstats/3.5.1/lib64/R/bin/BATCH: line 60: 78714 Segmentation fault      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1* caused by a bug in rlang. This can be fixed by loading a dev version of rlang.
+``` r
+install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
+pak::pkg_install("r-lib/rlang")
+```
+
 ## References
 
 Bacolla et al. [Cancer mutational burden is shaped by G4 DNA, replication stress and mitochondrial dysfunction](https://www.sciencedirect.com/science/article/pii/S0079610718302426?via%3Dihub) *Prog. Biophys. Mol. Biol.* **147**, 47-61, 2019.
