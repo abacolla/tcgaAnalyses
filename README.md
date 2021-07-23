@@ -88,6 +88,8 @@ Bacolla et al. [Heritable pattern of oxidized DNA base repair coincides with pre
 
 Singh et al. [Histone acetyltransferase MOF orchestrates outcomes at the crossroad of oncogenesis, DNA damage response, proliferation, and stem cell development](https://mcb.asm.org/content/mcb/40/18/e00232-20.full.pdf) *Mol. Cell. Biol.* **40**, e00232-20, 2020.
 
+Eckelmann et al. [XRCC1 promotes replication restart, nascent fork degradation and mutagenic DNA repair in BRCA2-deficient cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397735/) *NAR Cancer* **2**, zcaa013, 2020.
+
 Bacolla et al. [Cancer mutational burden is shaped by G4 DNA, replication stress and mitochondrial dysfunction](https://www.sciencedirect.com/science/article/pii/S0079610718302426?via%3Dihub) *Prog. Biophys. Mol. Biol.* **147**, 47-61, 2019.
 
 Houl et al. [Selective small molecule PARG inhibitor causes replication fork stalling and cancer cell death](https://www.nature.com/articles/s41467-019-13508-4) *Nat. Commun.* **10**, 5654, 2019.
