@@ -87,3 +87,7 @@ Houl et al. [Selective small molecule PARG inhibitor causes replication fork sta
 Singh et al. [Histone acetyltransferase MOF orchestrates outcomes at the crossroad of oncogenesis, DNA damage response, proliferation, and stem cell development](https://mcb.asm.org/content/mcb/40/18/e00232-20.full.pdf) *Mol. Cell. Biol.* **40**, e00232-20, 2020.
 
 Bacolla et al. [Heritable pattern of oxidized DNA base repair coincides with pre-targeting of repair complexes to open chromatin](https://academic.oup.com/nar/article/49/1/221/6029161) *Nucleic Acids Res.* **49**, 221-243, 2021.
+
+Lees-Miller et al. [Uncovering DNA-PKcs ancient phylogeny, unique sequence motifs and insights for human disease](https://www.sciencedirect.com/science/article/pii/S0079610720300973?via%3Dihub) *Prog. Biophys. Mol. Biol.* **163**, 87-108, 2021.
+
+Hambarde et al. [EXO5-DNA structure and BLM interactions direct DNA resection critical for ATR-dependent replication restart](https://www.sciencedirect.com/science/article/pii/S1097276521004202?via%3Dihub) *Mol. Cell* **81**, 2989–3006, 2021. 
