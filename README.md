@@ -80,6 +80,8 @@ pak::pkg_install("r-lib/rlang")
 
 ## References
 
+Ye et al. [GRB2 enforces homology-directed repair initiation by MRE11](https://advances.sciencemag.org/content/7/32/eabe9254) *Sci. Adv.* **7**, eabe9254, 2021.
+
 Hambarde et al. [EXO5-DNA structure and BLM interactions direct DNA resection critical for ATR-dependent replication restart](https://www.sciencedirect.com/science/article/pii/S1097276521004202?via%3Dihub) *Mol. Cell* **81**, 2989–3006, 2021.
 
 Lees-Miller et al. [Uncovering DNA-PKcs ancient phylogeny, unique sequence motifs and insights for human disease](https://www.sciencedirect.com/science/article/pii/S0079610720300973?via%3Dihub) *Prog. Biophys. Mol. Biol.* **163**, 87-108, 2021.
