@@ -80,7 +80,7 @@ pak::pkg_install("r-lib/rlang")
 
 ## References
 
-Bacolla A, Tainer JA. [Robust computational approaches to defining insights on the interface of DNA repair with replication and transcription in cancer](10.1007/978-1-0716-2063-2_1) *Methods Mol. Biol.* **2444**, 1-13, 2022. PMID: 35290628.
+Bacolla A, Tainer JA. [Robust computational approaches to defining insights on the interface of DNA repair with replication and transcription in cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9377048/) *Methods Mol. Biol.* **2444**, 1-13, 2022. PMID: 35290628 PMCID: PMC9377048  DOI: 10.1007/978-1-0716-2063-2_1
 
 Ye et al. [GRB2 enforces homology-directed repair initiation by MRE11](https://advances.sciencemag.org/content/7/32/eabe9254) *Sci. Adv.* **7**, eabe9254, 2021. PMID: 34348893 PMCID: PMC8336959  DOI: 10.1126/sciadv.abe9254
 
