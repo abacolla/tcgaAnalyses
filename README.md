@@ -80,18 +80,20 @@ pak::pkg_install("r-lib/rlang")
 
 ## References
 
-Ye et al. [GRB2 enforces homology-directed repair initiation by MRE11](https://advances.sciencemag.org/content/7/32/eabe9254) *Sci. Adv.* **7**, eabe9254, 2021.
+Bacolla A, Tainer JA. [Robust computational approaches to defining insights on the interface of DNA repair with replication and transcription in cancer](10.1007/978-1-0716-2063-2_1) *Methods Mol. Biol.* **2444**, 1-13, 2022. PMID: 35290628.
 
-Hambarde et al. [EXO5-DNA structure and BLM interactions direct DNA resection critical for ATR-dependent replication restart](https://www.sciencedirect.com/science/article/pii/S1097276521004202?via%3Dihub) *Mol. Cell* **81**, 2989–3006, 2021.
+Ye et al. [GRB2 enforces homology-directed repair initiation by MRE11](https://advances.sciencemag.org/content/7/32/eabe9254) *Sci. Adv.* **7**, eabe9254, 2021. PMID: 34348893 PMCID: PMC8336959  DOI: 10.1126/sciadv.abe9254
 
-Lees-Miller et al. [Uncovering DNA-PKcs ancient phylogeny, unique sequence motifs and insights for human disease](https://www.sciencedirect.com/science/article/pii/S0079610720300973?via%3Dihub) *Prog. Biophys. Mol. Biol.* **163**, 87-108, 2021.
+Hambarde et al. [EXO5-DNA structure and BLM interactions direct DNA resection critical for ATR-dependent replication restart](https://www.sciencedirect.com/science/article/pii/S1097276521004202?via%3Dihub) *Mol. Cell* **81**, 2989–3006, 2021. PMID: 34197737  PMCID: PMC8720176  DOI: 10.1016/j.molcel.2021.05.027
 
-Bacolla et al. [Heritable pattern of oxidized DNA base repair coincides with pre-targeting of repair complexes to open chromatin](https://academic.oup.com/nar/article/49/1/221/6029161) *Nucleic Acids Res.* **49**, 221-243, 2021.
+Lees-Miller et al. [Uncovering DNA-PKcs ancient phylogeny, unique sequence motifs and insights for human disease](https://www.sciencedirect.com/science/article/pii/S0079610720300973?via%3Dihub) *Prog. Biophys. Mol. Biol.* **163**, 87-108, 2021. PMID: 33035590  PMCID: PMC8021618  DOI: 10.1016/j.pbiomolbio.2020.09.010
 
-Singh et al. [Histone acetyltransferase MOF orchestrates outcomes at the crossroad of oncogenesis, DNA damage response, proliferation, and stem cell development](https://mcb.asm.org/content/mcb/40/18/e00232-20.full.pdf) *Mol. Cell. Biol.* **40**, e00232-20, 2020.
+Bacolla et al. [Heritable pattern of oxidized DNA base repair coincides with pre-targeting of repair complexes to open chromatin](https://academic.oup.com/nar/article/49/1/221/6029161) *Nucleic Acids Res.* **49**, 221-243, 2021. PMID: 33300026  PMCID: PMC7797072  DOI: 10.1093/nar/gkaa1120
 
-Eckelmann et al. [XRCC1 promotes replication restart, nascent fork degradation and mutagenic DNA repair in BRCA2-deficient cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397735/) *NAR Cancer* **2**, zcaa013, 2020.
+Singh et al. [Histone acetyltransferase MOF orchestrates outcomes at the crossroad of oncogenesis, DNA damage response, proliferation, and stem cell development](https://mcb.asm.org/content/mcb/40/18/e00232-20.full.pdf) *Mol. Cell. Biol.* **40**, e00232-20, 2020. PMID: 32661120  PMCID: PMC7459263  DOI: 10.1128/MCB.00232-20
 
-Bacolla et al. [Cancer mutational burden is shaped by G4 DNA, replication stress and mitochondrial dysfunction](https://www.sciencedirect.com/science/article/pii/S0079610718302426?via%3Dihub) *Prog. Biophys. Mol. Biol.* **147**, 47-61, 2019.
+Eckelmann et al. [XRCC1 promotes replication restart, nascent fork degradation and mutagenic DNA repair in BRCA2-deficient cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397735/) *NAR Cancer* **2**, zcaa013, 2020. PMID: 32776008  PMCID: PMC7397735  DOI: 10.1093/narcan/zcaa013
 
-Houl et al. [Selective small molecule PARG inhibitor causes replication fork stalling and cancer cell death](https://www.nature.com/articles/s41467-019-13508-4) *Nat. Commun.* **10**, 5654, 2019.
+Bacolla et al. [Cancer mutational burden is shaped by G4 DNA, replication stress and mitochondrial dysfunction](https://www.sciencedirect.com/science/article/pii/S0079610718302426?via%3Dihub) *Prog. Biophys. Mol. Biol.* **147**, 47-61, 2019. PMID: 30880007  PMCID: PMC6745008  DOI: 10.1016/j.pbiomolbio.2019.03.004
+
+Houl et al. [Selective small molecule PARG inhibitor causes replication fork stalling and cancer cell death](https://www.nature.com/articles/s41467-019-13508-4) *Nat. Commun.* **10**, 5654, 2019. PMID: 31827085  PMCID: PMC6906431  DOI: 10.1038/s41467-019-13508-4
